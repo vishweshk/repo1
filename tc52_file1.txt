@@ -1,0 +1,2 @@
+hello .. 
+       this is tc52_file 1 under ticket 52

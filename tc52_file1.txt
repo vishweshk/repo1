@@ -1,2 +1,3 @@
 hello .. 
-       this is tc52_file 1 under ticket 52
+       this is tc52_file 1 under ticket 52.
+bye ...
